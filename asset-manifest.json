@@ -1,18 +1,18 @@
 {
   "files": {
-    "main.css": "/signup/static/css/main.a2c2658d.chunk.css",
-    "main.js": "/signup/static/js/main.8894bf64.chunk.js",
-    "main.js.map": "/signup/static/js/main.8894bf64.chunk.js.map",
-    "runtime-main.js": "/signup/static/js/runtime-main.3f1983e9.js",
-    "runtime-main.js.map": "/signup/static/js/runtime-main.3f1983e9.js.map",
-    "static/js/2.90c294ba.chunk.js": "/signup/static/js/2.90c294ba.chunk.js",
-    "static/js/2.90c294ba.chunk.js.map": "/signup/static/js/2.90c294ba.chunk.js.map",
-    "index.html": "/signup/index.html",
-    "static/css/main.a2c2658d.chunk.css.map": "/signup/static/css/main.a2c2658d.chunk.css.map",
-    "static/js/2.90c294ba.chunk.js.LICENSE.txt": "/signup/static/js/2.90c294ba.chunk.js.LICENSE.txt"
+    "main.css": "/BOTSPOT/static/css/main.a2c2658d.chunk.css",
+    "main.js": "/BOTSPOT/static/js/main.8894bf64.chunk.js",
+    "main.js.map": "/BOTSPOT/static/js/main.8894bf64.chunk.js.map",
+    "runtime-main.js": "/BOTSPOT/static/js/runtime-main.0a54aca0.js",
+    "runtime-main.js.map": "/BOTSPOT/static/js/runtime-main.0a54aca0.js.map",
+    "static/js/2.90c294ba.chunk.js": "/BOTSPOT/static/js/2.90c294ba.chunk.js",
+    "static/js/2.90c294ba.chunk.js.map": "/BOTSPOT/static/js/2.90c294ba.chunk.js.map",
+    "index.html": "/BOTSPOT/index.html",
+    "static/css/main.a2c2658d.chunk.css.map": "/BOTSPOT/static/css/main.a2c2658d.chunk.css.map",
+    "static/js/2.90c294ba.chunk.js.LICENSE.txt": "/BOTSPOT/static/js/2.90c294ba.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.3f1983e9.js",
+    "static/js/runtime-main.0a54aca0.js",
     "static/js/2.90c294ba.chunk.js",
     "static/css/main.a2c2658d.chunk.css",
     "static/js/main.8894bf64.chunk.js"
